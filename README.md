@@ -1,4 +1,4 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# ![Made For You](https://github.com/wegissilveira/made-for-you-ecommerce/blob/master/images-demo/home.png)
 # Made For You
 <table>
 <tr>
@@ -23,28 +23,22 @@ Here is a working live demo :  https://www.wegis.com.br/made-for-you
 
 ## Site
 
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
+### Shop Page
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](https://github.com/wegissilveira/made-for-you-ecommerce/blob/master/images-demo/shop.png)
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
-
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+### Shopping Bag
+![](https://github.com/wegissilveira/made-for-you-ecommerce/blob/master/images-demo/shop.png)
 
 
 ## Mobile support
-Made For You is compatible with devices of all sizes.
+<em>Made For You</em> is compatible with devices of all sizes.
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+![](https://github.com/wegissilveira/made-for-you-ecommerce/blob/master/images-demo/mobile.png)
 
 
 ## Sources
-- Layout partly inspired by [Vladislav Berg](https://www.behance.net/gallery/98180195/All-for-your-home-Online-Store-E-commerce) and [Magdalena Figura](https://www.behance.net/gallery/84904331/Login-page-UIUX-design) work.
+- Layout partially inspired by [Vladislav Berg](https://www.behance.net/gallery/98180195/All-for-your-home-Online-Store-E-commerce) and [Magdalena Figura](https://www.behance.net/gallery/84904331/Login-page-UIUX-design) work.
 
 ### Bug / Feature Request
 
