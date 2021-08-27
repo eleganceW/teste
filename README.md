@@ -43,7 +43,8 @@ Made For You is compatible with devices of all sizes.
 ![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
 
 
-
+## Sources
+- Layout partly inspired by [Vladislav Berg](https://www.behance.net/gallery/98180195/All-for-your-home-Online-Store-E-commerce) and [Magdalena Figura](https://www.behance.net/gallery/84904331/Login-page-UIUX-design) work.
 
 ### Bug / Feature Request
 
