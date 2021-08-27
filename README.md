@@ -1,16 +1,24 @@
 # ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
+# Made For You
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+ A beautiful and functional ecommerce built with React. It has all frontend functionalities needed in order to make an ecommerce work properly, from a product grid with a dynamic filter to an editable cart.
 </td>
 </tr>
 </table>
 
+## Main Features
+- Multiple sliders displaying available products;
+- Editable shopping bag;
+- Favorites page;
+- Products Page with a dynamic filter;
+- Search product by typing;
+- Modal with product details;
+- Products separated by rooms.
 
 ## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+Here is a working live demo :  https://www.wegis.com.br/made-for-you
 
 
 ## Site
@@ -30,50 +38,21 @@ Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol wil
 
 
 ## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+Made For You is compatible with devices of all sizes.
 
 ![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
 
 
 
 
-## [Usage](https://iharsh234.github.io/WebApp/) 
-
-### Development
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/wegissilveira/made-for-you-ecommerce/issues).
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/wegissilveira/made-for-you-ecommerce/issues).
 
 
 ## Built with 
 
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
-
-
-## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
-
-## Team
-
-[Wegis Silveira ](https://github.com/wegissilveira) 
-
-
-
+- [React](https://reactjs.org/) - React makes it painless to create interactive UIs.
+- [CSS](https://www.w3schools.com/css/) - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language.
